@@ -1,1 +1,2 @@
 #!/bin/bash
+install -d --mode=751 my_dir
